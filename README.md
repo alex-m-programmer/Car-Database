@@ -3,8 +3,6 @@ Car Database Management System
 A robust CLI-based database application written in C for managing vehicle records.
 Built from scratch to demonstrate data structures, modular design, and safe file handling.
 
-No frameworks. No shortcuts. Pure C.
-
 Key Features
 
 • Sorted Data Storage
@@ -66,4 +64,5 @@ Make sure the following files exist in the project root:
 • Cars.txt
 
 Execute
+
 ./car_db
